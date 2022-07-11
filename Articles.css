@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-container {
+    background-color: #225db0;
+    padding: 30px;
+    height: 100vh;
+}
+
+.home-main-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "roboto";
+    padding-top: 10px;
+}
+
+.home-main-para {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "roboto";
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.course-white-container {
+    background-color: #ffffff;
+    height: 85px;
+    width: 130px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.course-container-image {
+    height: 33px;
+    width: 33px;
+
+}
+
+.technology-container {
+    background-color: #225db0;
+    padding: 20px;
+}
+
+.home-sub-heading {
+    color: #1f2933;
+    font-size: 15px;
+    padding: 3px;
+    font-family: "roboto";
+}
+
+.technology-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "roboto";
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.technology-list {
+    color: #ffffff;
+}
+
+.technology-button {
+    color: #ffffff;
+    height: 20px;
+    width: 40px;
+    font-size: 10px;
+    font-weight: 100;
+    background-color: #225db0;
+    border-color: #ffffff;
+    border-width: 1px;
+}
